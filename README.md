@@ -1,4 +1,4 @@
-# test-project
+# bill-tracker
 
 > A Vue.js project
 
